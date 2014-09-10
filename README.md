@@ -14,7 +14,7 @@ $ npm install node-dijkstra
 ```
 $ mkdir myApp
 $ cd myApp
-$ npm install googler
+$ npm install dijkstra-edsger
 $ touch app.js 
 ```
 
