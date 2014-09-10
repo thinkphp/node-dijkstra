@@ -1,4 +1,4 @@
-require('dijkstra');
+var Dijkstra = require('dijkstra-edsger');
 
 var road = [[1, 2, 1],
             [1, 3, 9],
@@ -13,7 +13,7 @@ var road = [[1, 2, 1],
 var start = 1, 
     end   = 3;
 
-var dij = new Dijkstra(start, end, road );
+var dij = new Dijkstra(start, end, road);
 
 console.log("Cost = " + dij.getCost() )
 
