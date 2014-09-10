@@ -22,7 +22,7 @@ $ touch app.js
 
 ```
 
-require('dijkstra-edsger');
+var Dijkstra = require('dijkstra-edsger');
 
 var road = [[1, 2, 1],
             [1, 3, 9],

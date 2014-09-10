@@ -3,7 +3,7 @@
     "name": "dijkstra-edsger",
     "description": "Algorithm's Dijkstra Shortest Finder",
     "tags" : ["dijkstra","search", "path","shortest","shortestpath","graph","algorithm"],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "repository": {
         "type": "git",
         "url": "git://github.com/thinkphp/node-dijkstra.git"
