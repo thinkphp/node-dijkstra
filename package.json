@@ -1,0 +1,25 @@
+{
+    "author": "Adrian Statescu <mergesortv@gmail.com>",
+    "name": "dijkstra-edsger",
+    "description": "Algorithm's Dijkstra Shortest Finder",
+    "tags" : ["dijkstra","search", "path","shortest","shortestpath","graph","algorithm"],
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/thinkphp/node-dijkstra.git"
+    },
+    "engines": {
+        "node": ">= 0.4.1"
+    },
+    "bugs" : { 
+        "url" : "http://github.com/thinkphp/node-dijkstra/issues"
+    },
+    "main" : "./index.js",
+    "scripts" : {
+      "test": ""
+    },
+    "licenses" : [{
+        "type" : "MIT",
+        "url" : "http://github.com/thinkphp/node-dijkstra/raw/master/LICENSE"
+    }]
+}
