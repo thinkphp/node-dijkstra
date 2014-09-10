@@ -18,7 +18,7 @@ $ npm install dijkstra-edsger
 $ touch app.js 
 ```
 
-# Add the following code
+# Sample Code
 
 ```
 
