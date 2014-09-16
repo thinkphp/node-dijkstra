@@ -1,6 +1,9 @@
 # node-dijkstra
 
-Dijkstra's Algorithm For Shortest Path Finder Directed Graph.
+Dijkstra's algorithm, conceived by computer scientist Edsger Dijkstra, is a graph search algorithm that solves in single-source
+shortest path problem for a graph with non-negative edge path costs, producing a shortest path tree. 
+
+![Screenshot](http://farm6.staticflickr.com/5572/15142640541_6ea1eb3d48.jpg)
 
 # Installation
 
