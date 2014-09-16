@@ -48,6 +48,10 @@ console.log("Shortest path from the node "+ start + " to "+ end + " -> "+ dij.ge
 
 ```
 
+# References
+
+  http://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+
 # License
 
 MIT
