@@ -5,7 +5,7 @@ shortest path problem for a graph with non-negative edge path costs, producing a
 
 ![Screenshot](http://farm6.staticflickr.com/5572/15142640541_6ea1eb3d48.jpg)
 
-# Installation
+## Installation
 
 ```
 
@@ -21,7 +21,7 @@ $ npm install dijkstra-edsger
 $ touch app.js 
 ```
 
-# Sample Code
+## Sample Code
 
 ```
 
@@ -48,10 +48,10 @@ console.log("Shortest path from the node "+ start + " to "+ end + " -> "+ dij.ge
 
 ```
 
-# References
+## References
 
   http://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 
-# License
+## License
 
 MIT
